@@ -6,16 +6,10 @@
 
 /*
  4.) My prediction is that the code will print out the text (all together) that has been assigned to the
- to the variables used in the code using string.
-  
-  
- */
+ to the variables used in the code using string.*/
 
 /*
- 6. I was correct! I learned how parameters connected the text through the string commands.
- 
- 
- */
+ 6.) I was correct! I learned how parameters connected the text through the string commands.*/
 
 public class P4_MysteryTouch {
 	public static void main(String[] args) {
